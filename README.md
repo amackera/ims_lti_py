@@ -1,3 +1,7 @@
+# Notice
+
+I am looking for a new maintainer for  this library
+
 # ims-lti-py
 
 Python port of the useful [ims-lti](https://github.com/instructure/ims-lti) Ruby library. Makes integrating with LTI pretty easy.
